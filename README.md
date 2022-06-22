@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mounir Dekali</h1>
 <h3 align="center">A passionate Game Developer and Computer Vision student.</h3>
+<h3 align="left"> I'm constantly developing my skills in Machine Learning for I enjoy any AI related subjects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starman1999&label=Profile%20views&color=0e75b6&style=flat" alt="starman1999" /> </p>
 
