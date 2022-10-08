@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mounir Dekali</h1>
-<h3 align="center">A passionate Game Developer and Computer Vision student.</h3>
+<h3 align="center">A Front Web developer, Game Developer and Computer Vision student.</h3>
 <h3 align="left"> I'm constantly developing my skills in Machine Learning for I enjoy any AI related subjects.</h3>
 <h4 align ="left"> Check out some of the games I made here: https://mounirdev.itch.io/ </h4>
 
