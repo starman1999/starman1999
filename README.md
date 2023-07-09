@@ -2,7 +2,7 @@
 <h3 align="center">A Front Web developer, Grahic Designer and Computer Vision student.</h3>
 <h3 align="left"> I'm constantly developing my skills in Machine Learning too for I enjoy any AI related subjects.</h3>
 <h4 align ="left"> Check out some of the games I made here: https://mounirdev.itch.io/ </h4>
-my Graphic Design Portfolio developed with react : https://mounirdekali.netlify.app
+my Graphic Design Portfolio developed with react : https://mounirdekali.netlify.app </br>
 Javascript Visualization of the USTHB university: https://starman1999.github.io/USTHB-Visualization/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starman1999&label=Profile%20views&color=0e75b6&style=flat" alt="starman1999" /> </p>
