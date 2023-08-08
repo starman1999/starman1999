@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mounir Dekali</h1>
 <h3 align="center">A Front Web developer, Grahic Designer and Computer Vision student.</h3>
-<h3 align="left"> I'm constantly developing my skills in Machine Learning too for I enjoy any AI related subjects.</h3>
+<h3 align="left"> I'm constantly developing my skills in Front End Development.</h3>
 <h4 align ="left"> Check out some of the games I made here: https://mounirdev.itch.io/ </h4>
 my Graphic Design Portfolio developed with react : https://mounirdekali.netlify.app </br>
 Javascript Visualization of the USTHB university: https://starman1999.github.io/USTHB-Visualization/
