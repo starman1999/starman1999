@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mounir Dekali</h1>
-<h3 align="center">A Front Web developer, Grahic Designer and Computer Vision graduate</h3>
+<h3 align="center">A Front Web developer, Graphic Designer and Computer Vision graduate</h3>
 <h3 align="center"> I'm constantly developing my skills in Front End Development.</h3>
 <h4 align ="left"> Check out some of the games I made here: https://mounirdev.itch.io/ </h4>
 my Graphic Design Portfolio developed with react : https://mounirdekali.netlify.app </br>
